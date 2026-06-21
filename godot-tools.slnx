@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Godough.Addons/Godough.Addons.csproj" />
+  <Project Path="Godough.Generators.DI/Godough.Generators.DI.csproj" />
+</Solution>

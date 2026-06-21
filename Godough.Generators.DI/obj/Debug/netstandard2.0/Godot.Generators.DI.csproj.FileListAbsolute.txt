@@ -1,0 +1,11 @@
+/Users/user/Documents/smol-boss/Godot.Generators.DI/bin/Debug/netstandard2.0/Godot.Generators.DI.deps.json
+/Users/user/Documents/smol-boss/Godot.Generators.DI/bin/Debug/netstandard2.0/Godot.Generators.DI.dll
+/Users/user/Documents/smol-boss/Godot.Generators.DI/bin/Debug/netstandard2.0/Godot.Generators.DI.pdb
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.csproj.AssemblyReference.cache
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.AssemblyInfoInputs.cache
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.AssemblyInfo.cs
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.csproj.CoreCompileInputs.cache
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.sourcelink.json
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.dll
+/Users/user/Documents/smol-boss/Godot.Generators.DI/obj/Debug/netstandard2.0/Godot.Generators.DI.pdb

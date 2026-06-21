@@ -1,0 +1,11 @@
+/Users/user/Documents/smol-boss/godot-source-generators/bin/Debug/netstandard2.0/godot-source-generators.deps.json
+/Users/user/Documents/smol-boss/godot-source-generators/bin/Debug/netstandard2.0/godot-source-generators.dll
+/Users/user/Documents/smol-boss/godot-source-generators/bin/Debug/netstandard2.0/godot-source-generators.pdb
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.csproj.AssemblyReference.cache
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.AssemblyInfoInputs.cache
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.AssemblyInfo.cs
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.csproj.CoreCompileInputs.cache
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.sourcelink.json
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.dll
+/Users/user/Documents/smol-boss/godot-source-generators/obj/Debug/netstandard2.0/godot-source-generators.pdb
