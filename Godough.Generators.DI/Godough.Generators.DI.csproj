@@ -7,7 +7,7 @@
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>0.1.0</Version>
+        <Version>0.1.2</Version>
         <Title>Godough-Tools.DI</Title>
         <RepositoryUrl>https://github.com/PickDough/godot-tools</RepositoryUrl>
     </PropertyGroup>
@@ -16,5 +16,9 @@
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Attributes\" />
+    </ItemGroup>
+    <ItemGroup>
+        <None Update="tools\*.ps1" CopyToOutputDirectory="Always" Pack="true" PackagePath="" />
+        <None Include="$(OutputPath)\$(AssemblyName).dll" Pack="true" PackagePath="analyzers/dotnet/cs" Visible="false" />
     </ItemGroup>
 </Project>

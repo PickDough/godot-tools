@@ -16,7 +16,6 @@ public class DiSourceGenerator : IIncrementalGenerator
 {
     public void Initialize(IncrementalGeneratorInitializationContext context)
     {
-        // Step 1: Find all class declarations with [Serializable]
         var classDeclarations = context
             .SyntaxProvider.CreateSyntaxProvider(
                 static (s, _) => IsCandidate(s), // quick filter
@@ -24,7 +23,6 @@ public class DiSourceGenerator : IIncrementalGenerator
             ) // get symbol
             .Where(static m => m is not null)!;
 
-        // Step 2: Generate code for each matched class
         context.RegisterSourceOutput(
             classDeclarations,
             static (spc, classSymbol) =>
