@@ -1,8 +1,12 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using Godot;
 
-namespace Godough.Addons.NodeSelection;
+#nullable enable
+namespace GdSharpExtensions.TreeQuery;
 
-public static class NodeSelectorExtension
+public static class TreeQueryExtension
 {
     public static T? FindUnderRoot<T>(this Node node)
         where T : Node

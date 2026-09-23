@@ -1,6 +1,7 @@
 using Godot;
 
-namespace Godough.Addons._3D;
+#nullable enable
+namespace GdSharpExtensions.ThreeD;
 
 public record RaycastResult(CollisionObject3D Collider, Vector3 Normal, Vector3 Point);
 
